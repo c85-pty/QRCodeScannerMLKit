@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 2836cff (mi primer commit)
 # Gradle files
 .gradle/
 build/
@@ -31,3 +35,23 @@ google-services.json
 
 # Android Profiling
 *.hprof
+<<<<<<< HEAD
+=======
+=======
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+>>>>>>> 1294c20 (mi primer commit con el código)
+>>>>>>> 2836cff (mi primer commit)
